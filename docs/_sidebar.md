@@ -31,3 +31,4 @@
 # 其他
 
 - [网站搭建](other\Github+docsify搭建个人博客.md)
+- [个人博客网站更新](other\个人博客网站更新.md)
